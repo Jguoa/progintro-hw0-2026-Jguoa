@@ -1,7 +1,7 @@
 byte0: cd και ls
 byte1: man
 byte2: grep "will find"
-byte3:
+byte3: diff shakespeare.txt shakespeare.modified.txt
 byte4:
 byte5:
 byte6:
