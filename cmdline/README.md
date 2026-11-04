@@ -6,7 +6,7 @@ byte4: cat ./maze/left/right/8/cup.txt
 byte5: mkdir /tmp/bytetmp -> cp byte5.c /tmp/bytetmp/ -> cd /tmp/bytetmp/ -> gcc byte5.c -o bytetmp -> ./bytetmp sdi2400265
 byte6: mkdir /tmp/bytetmp -> unzip byte6.zip -d /tmp/bytetmp -> cat /tmp/bytetmp/byte6.txt
 byte7: mkdir /tmp/bytetmp -> tar -xf byte7.tar.gz -C /tmp/bytetmp -> cat /tmp/byte7_folder/byte7.txt
-byte8:
+byte8: xxd carriage_return.txt ή pico carriage_return.txt
 byte9:
 byte10:
 byte11:
