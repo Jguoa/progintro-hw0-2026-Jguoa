@@ -1,6 +1,6 @@
 byte0: cd και ls
 byte1: man
-byte2:
+byte2: grep "will find"
 byte3:
 byte4:
 byte5:
