@@ -1,4 +1,4 @@
-byte0:
+byte0: treasure
 byte1:
 byte2:
 byte3:
