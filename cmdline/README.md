@@ -2,7 +2,7 @@ byte0: cd και ls
 byte1: man
 byte2: grep "will find"
 byte3: diff shakespeare.txt shakespeare.modified.txt
-byte4:
+byte4: cat ./maze/left/right/8/cup.txt
 byte5:
 byte6:
 byte7:
