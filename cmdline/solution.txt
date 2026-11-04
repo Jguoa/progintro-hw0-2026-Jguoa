@@ -1,7 +1,7 @@
 byte0: treasure
 byte1: brown_paper_packages_tied_up_with_strings
 byte2: grep_and_you_shall_find
-byte3:
+byte3: programmers
 byte4:
 byte5:
 byte6:
