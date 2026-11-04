@@ -10,7 +10,7 @@ byte8: xxd carriage_return.txt ή pico carriage_return.txt
 byte9: cat /home/byte9/-
 byte10: sort names.txt | sed -n '67p'
 byte11: sort births.txt | uniq -c
-byte12:
+byte12: which tuxsay
 byte13:
 byte14:
 byte15:
