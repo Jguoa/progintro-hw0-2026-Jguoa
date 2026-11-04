@@ -9,7 +9,7 @@ byte7: mkdir /tmp/bytetmp -> tar -xf byte7.tar.gz -C /tmp/bytetmp -> cat /tmp/by
 byte8: xxd carriage_return.txt ή pico carriage_return.txt
 byte9: cat /home/byte9/-
 byte10: sort names.txt | sed -n '67p'
-byte11:
+byte11: sort births.txt | uniq -c
 byte12:
 byte13:
 byte14:
