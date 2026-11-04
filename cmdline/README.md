@@ -8,7 +8,7 @@ byte6: mkdir /tmp/bytetmp -> unzip byte6.zip -d /tmp/bytetmp -> cat /tmp/bytetmp
 byte7: mkdir /tmp/bytetmp -> tar -xf byte7.tar.gz -C /tmp/bytetmp -> cat /tmp/byte7_folder/byte7.txt
 byte8: xxd carriage_return.txt ή pico carriage_return.txt
 byte9: cat /home/byte9/-
-byte10:
+byte10: sort names.txt | sed -n '67p'
 byte11:
 byte12:
 byte13:
