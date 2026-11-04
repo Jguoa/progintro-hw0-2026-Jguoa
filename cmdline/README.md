@@ -1,5 +1,5 @@
 byte0: cd και ls
-byte1:
+byte1: man
 byte2:
 byte3:
 byte4:
