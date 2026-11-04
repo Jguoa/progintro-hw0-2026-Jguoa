@@ -7,7 +7,7 @@ byte5: mkdir /tmp/bytetmp -> cp byte5.c /tmp/bytetmp/ -> cd /tmp/bytetmp/ -> gcc
 byte6: mkdir /tmp/bytetmp -> unzip byte6.zip -d /tmp/bytetmp -> cat /tmp/bytetmp/byte6.txt
 byte7: mkdir /tmp/bytetmp -> tar -xf byte7.tar.gz -C /tmp/bytetmp -> cat /tmp/byte7_folder/byte7.txt
 byte8: xxd carriage_return.txt ή pico carriage_return.txt
-byte9:
+byte9: cat /home/byte9/-
 byte10:
 byte11:
 byte12:
