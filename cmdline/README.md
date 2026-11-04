@@ -12,7 +12,7 @@ byte10: sort names.txt | sed -n '67p'
 byte11: sort births.txt | uniq -c
 byte12: which tuxsay
 byte13: cd repo -> git log
-byte14:
+byte14: git log -p
 byte15:
 byte16:
 byte17:
